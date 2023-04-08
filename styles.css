@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+div{
+	box-shadow:
+}
+img{
+	width:300px;
+	height:200px;
+	padding:0px;
+	margin:0px;
+}
+h1{
+	font-size:50px;
+	font-weight:700px
+}
+p{
+	margin:0px;
+	font-size:30px;
+	justify-content:space-around;
+}
